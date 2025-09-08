@@ -1,0 +1,10 @@
+a=53
+b=72
+c=28
+d=40
+e=123
+sum=a+b+c+d+e
+avg=sum/5
+n_b=50
+avg=((sum-b)+n_b)/5
+print(avg)
